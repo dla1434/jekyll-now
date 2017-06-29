@@ -1,6 +1,6 @@
 ---
-layout:post
-title: "Hello World"
+layout: post
+title: You're up and running!
 ---
 
 I'm ljh with Git Page
