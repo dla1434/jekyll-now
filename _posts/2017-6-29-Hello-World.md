@@ -1,6 +1,6 @@
 ---
 layout:post
-title: Hello World
+title: "Hello World"
 ---
 
 I'm ljh with Git Page
